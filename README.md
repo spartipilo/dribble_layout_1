@@ -1,4 +1,4 @@
-# Project Name
+# Dribble Project
 
 Questo progetto è un layout/UI realizzato in Flutter a scopo di studio e pratica, ispirato a un design trovato su Dribbble.
 
